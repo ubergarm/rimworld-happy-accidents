@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.2.2753 rev712</version>
+  <activeMods>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+    <li>rwmt.multiplayer</li>
+    <li>rwmt.multiplayercompatibility</li>
+    <li>unlimitedhugs.hugslib</li>
+    <li>smashphil.carrycapacityfixed</li>
+    <li>codeoptimist.jobsofopportunity</li>
+    <li>petetimessix.simplesidearms</li>
+    <li>avilmask.commonsense</li>
+    <li>pathavoid.kv.rw</li>
+    <li>haplo.miscellaneous.training</li>
+    <li>unlimitedhugs.defensivepositions</li>
+    <li>fluffy.pharmacist</li>
+    <li>ari.forcedmarch</li>
+    <li>pinochemicali.skilledstonecutting</li>
+    <li>fuglypump.bulkstonecutting</li>
+    <li>fluffy.fluffybreakdowns</li>
+    <li>radzerp.naturalpaths</li>
+    <li>two.tilledsoil.140</li>
+    <li>pyrce.mass.graves</li>
+    <li>vanillaexpanded.vbookse</li>
+    <li>murmur.walllight</li>
+    <li>rimfridge.kv.rw</li>
+    <li>linafromsweden.simplymorefloors</li>
+    <li>tradingspot.kv.rw</li>
+    <li>smashphil.dropspot</li>
+    <li>orion.xevarimhair</li>
+    <li>mlie.foodalert</li>
+    <li>vanya.tools.blightedalert</li>
+    <li>crlsniper.realisticrooms</li>
+    <li>falconne.roomsense</li>
+    <li>crashm.colorcodedmoodbar.11</li>
+    <li>dubwise.dubsmintmenus</li>
+    <li>jaxe.rimhud</li>
+    <li>falconne.heatmap</li>
+    <li>caesarv6.damageindicators</li>
+    <li>targhetti.showdrafteesweapon</li>
+    <li>brrainz.cameraplus</li>
+    <li>com.bymarcin.architecticons</li>
+    <li>proxyer.optionalicons4ai</li>
+    <li>notfood.researchpal</li>
+    <li>frozensnowfox.complexjobs</li>
+    <li>edb.preparecarefully</li>
+  </activeMods>
+  <knownExpansions />
+</ModsConfigData>
