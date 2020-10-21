@@ -35,15 +35,16 @@ on the version available at this time. Here is a list of a few that
 I would like to include, but didn't because the given features cause
 desync consistently despite being listed as compatible level 3 or 4.
 
-* [Allow Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=761421485)
+* [Allow Tool](https://steamcommunity.com/sharedfiles/filedetails/?id=761421485) (if you really want it, manually install notfood's fork)
   - Strip Mining, Drafted Hunt, and Allow Entire Map hotkey
-* [Smart Medicine](https://steamcommunity.com/workshop/filedetails/?id=1309994319)
-  - Stock Up inventory
 * [Follow Me](https://steamcommunity.com/workshop/filedetails/?id=715759739)
   - Cinematic Camera modes
 
-Also I restricted this pack to only mods hosted on Steam workshop, and
+Also I restricted this pack to *only* mods hosted on Steam workshop, and
 of course there are many other possible mods that I just don't know about.
+
+## Configs
+Any mod with known conflicting or buggy options have those options disabled.
 
 ## Issues
 If you find something that consistently causes desync issues, please

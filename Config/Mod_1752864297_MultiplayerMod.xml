@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Multiplayer.Client.MpSettings">
-		<username>CHANGEME</username>
+		<username>Garm</username>
 		<serverSettings>
 			<maxPlayers>3</maxPlayers>
 			<autosaveInterval>1</autosaveInterval>
