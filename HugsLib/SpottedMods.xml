@@ -95,4 +95,6 @@
   <mod packageId="roolo.giddyupcore" />
   <mod packageId="roolo.giddyupcaravan" />
   <mod packageId="roolo.giddyupbattlemounts" />
+  <mod packageId="Smuffle.HarvestOrgansPostMortem" />
+  <mod packageId="Mlie.HolyWasher" />
 </Mods>

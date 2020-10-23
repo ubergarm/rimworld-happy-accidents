@@ -53,4 +53,13 @@
     <visitorMountChance>99</visitorMountChance>
     <visitorMountChanceTribal>99</visitorMountChanceTribal>
   </GiddyUpCaravan>
+  <Autopsy>
+    <tabs>Advanced Autopsy</tabs>
+    <basicAutopsyOrganChance>0.1534247</basicAutopsyOrganChance>
+    <advancedAutopsyOrganChance>0.3022831</advancedAutopsyOrganChance>
+    <advancedAutopsyBionicChance>0.7470319</advancedAutopsyBionicChance>
+    <glitterAutopsyOrganChance>0.6988584</glitterAutopsyOrganChance>
+    <glitterAutopsyBionicChance>0.9461187</glitterAutopsyBionicChance>
+    <animalAutopsyBionicChance>0.7461187</animalAutopsyBionicChance>
+  </Autopsy>
 </settings>
