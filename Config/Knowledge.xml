@@ -31,7 +31,7 @@
     </li>
     <li>
       <key>BuildOrbitalTradeBeacon</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>AnimalsDontAttackDoors</key>
@@ -43,7 +43,7 @@
     </li>
     <li>
       <key>OpeningComms</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>DrugAddiction</key>
@@ -219,7 +219,7 @@
     </li>
     <li>
       <key>ArrestingCreatesEnemies</key>
-      <value>0</value>
+      <value>1</value>
     </li>
     <li>
       <key>SwitchFlickingDesignation</key>
@@ -267,6 +267,22 @@
     </li>
     <li>
       <key>Concept_CEOverride</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>QRY_ReclaimingSoil</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GUC_Animal_Handling</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Mounting</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>BM_Enemy_Mounting</key>
       <value>0</value>
     </li>
   </knowledge>

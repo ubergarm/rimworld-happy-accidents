@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Multiplayer.Client.MpSettings">
-		<username>Garm</username>
+		<username>CHANGEME</username>
 		<serverSettings>
 			<maxPlayers>3</maxPlayers>
-			<autosaveInterval>1</autosaveInterval>
+			<autosaveInterval>10</autosaveInterval>
 			<steam>True</steam>
 			<lan>False</lan>
 		</serverSettings>
