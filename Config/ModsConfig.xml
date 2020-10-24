@@ -13,10 +13,12 @@
     <li>roolo.runandgun</li>
     <li>pathavoid.kv.rw</li>
     <li>haplo.miscellaneous.training</li>
-    <li>mehni.pickupandhaul</li>
     <li>avilmask.commonsense</li>
     <li>codeoptimist.jobsofopportunity</li>
     <li>smashphil.carrycapacityfixed</li>
+    <li>rimfridge.kv.rw</li>
+    <li>lwm.deepstorage</li>
+    <li>mehni.pickupandhaul</li>
     <li>unlimitedhugs.defensivepositions</li>
     <li>ari.forcedmarch</li>
     <li>pinochemicali.skilledstonecutting</li>
@@ -36,8 +38,6 @@
     <li>ogliss.thewhitecrayon.quarry</li>
     <li>pyrce.mass.graves</li>
     <li>murmur.walllight</li>
-    <li>rimfridge.kv.rw</li>
-    <li>lwm.deepstorage</li>
     <li>linafromsweden.simplymorefloors</li>
     <li>cocaine.electricstonecuttingtable</li>
     <li>neceros.animalmedicalbed</li>
@@ -77,6 +77,7 @@
     <li>frozensnowfox.complexjobs</li>
     <li>edb.preparecarefully</li>
     <li>gguake.ui.simplesearchbar</li>
+    <li>fluffy.modmanager</li>
   </activeMods>
   <knownExpansions />
 </ModsConfigData>
