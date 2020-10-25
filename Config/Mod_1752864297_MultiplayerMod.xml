@@ -4,7 +4,7 @@
 		<username>CHANGEME</username>
 		<serverSettings>
 			<maxPlayers>3</maxPlayers>
-			<autosaveInterval>10</autosaveInterval>
+			<autosaveInterval>1</autosaveInterval>
 			<steam>True</steam>
 			<lan>False</lan>
 		</serverSettings>

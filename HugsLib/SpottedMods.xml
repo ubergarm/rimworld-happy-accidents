@@ -98,4 +98,8 @@
   <mod packageId="Smuffle.HarvestOrgansPostMortem" />
   <mod packageId="Mlie.HolyWasher" />
   <mod packageId="fluffy.modmanager" />
+  <mod packageId="Troopersmith1.DeathRattle" />
+  <mod packageId="Troopersmith1.LifeSupport" />
+  <mod packageId="Murmur.TCU" />
+  <mod packageId="hatti.cleaningarea" />
 </Mods>
