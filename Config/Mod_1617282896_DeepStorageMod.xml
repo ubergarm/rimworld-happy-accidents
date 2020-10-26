@@ -5,6 +5,5 @@
 		<robotsCanUse>False</robotsCanUse>
 		<default_s_priority>Normal</default_s_priority>
 		<useEjectButton>False</useEjectButton>
-		<useRightClickLogic>False</useRightClickLogic>
 	</ModSettings>
 </SettingsBlock>
