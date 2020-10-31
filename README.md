@@ -10,7 +10,7 @@ The mods in this pack are chosen for maximum compatibility to minimize desyncs.
 
 1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2257918295) (like and favorite if you choose)
 2. Download the [latest config files here](https://github.com/ubergarm/rimworld-happy-accidents/archive/master.zip)
-3. Copy/paste the `Config` and `HugsLib` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config`
+3. Copy/paste the `Config` and `HugsLib` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
 
 *NOTE*: You might want to backup your existing `Config` and `HugsLib` folders first!
 
