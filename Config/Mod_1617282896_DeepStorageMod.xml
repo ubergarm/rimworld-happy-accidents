@@ -4,6 +4,5 @@
 		<storing_global_scale>1</storing_global_scale>
 		<robotsCanUse>False</robotsCanUse>
 		<default_s_priority>Normal</default_s_priority>
-		<useEjectButton>False</useEjectButton>
 	</ModSettings>
 </SettingsBlock>
