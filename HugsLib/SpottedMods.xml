@@ -6,7 +6,6 @@
   <mod packageId="rwmt.MultiplayerCompatibility" />
   <mod packageId="UnlimitedHugs.HugsLib" />
   <mod packageId="Oblitus.AnimalsLogic" />
-  <mod packageId="Uuugggg.SmartMedicine" />
   <mod packageId="PeteTimesSix.SimpleSidearms" />
   <mod packageId="roolo.RunAndGun" />
   <mod packageId="pathavoid.kv.rw" />
@@ -82,4 +81,6 @@
   <mod packageId="gguake.ui.simplesearchbar" />
   <mod packageId="fluffy.modmanager" />
   <mod packageId="ubergarm.kanbanstockpile" />
+  <mod packageId="dubwise.dubsmintminimap" />
+  <mod packageId="Linkolas.Stabilize" />
 </Mods>
