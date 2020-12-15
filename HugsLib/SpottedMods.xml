@@ -51,7 +51,6 @@
   <mod packageId="Orion.XevaRimhair" />
   <mod packageId="Mlie.FoodAlert" />
   <mod packageId="syrchalis.setupcamp" />
-  <mod packageId="Vanya.Tools.BlightedAlert" />
   <mod packageId="crlsniper.realisticrooms" />
   <mod packageId="falconne.RoomSense" />
   <mod packageId="CrashM.ColorCodedMoodBar.11" />
@@ -83,4 +82,5 @@
   <mod packageId="ubergarm.kanbanstockpile" />
   <mod packageId="dubwise.dubsmintminimap" />
   <mod packageId="Linkolas.Stabilize" />
+  <mod packageId="razor2.3.AnotherRimworldMod.AutoCutBlight" />
 </Mods>

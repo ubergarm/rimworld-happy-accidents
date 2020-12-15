@@ -3,10 +3,11 @@
 	<ModSettings Class="Multiplayer.Client.MpSettings">
 		<username>CHANGEME</username>
 		<serverSettings>
-			<maxPlayers>3</maxPlayers>
+			<maxPlayers>4</maxPlayers>
 			<autosaveInterval>1</autosaveInterval>
 			<steam>True</steam>
 			<lan>False</lan>
+			<arbiter>False</arbiter>
 		</serverSettings>
 	</ModSettings>
 </SettingsBlock>
